@@ -1,4 +1,4 @@
-package com.lkqmain.sample;
+package me.lkqmain.sample;
 
 import org.junit.Test;
 

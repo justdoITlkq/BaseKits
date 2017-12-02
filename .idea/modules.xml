@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BaseKits.iml" filepath="$PROJECT_DIR$/BaseKits.iml" />
       <module fileurl="file://D:\Person\OpenResource\BaseKits\smaple\app.iml" filepath="D:\Person\OpenResource\BaseKits\smaple\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/basekits/basekits.iml" filepath="$PROJECT_DIR$/basekits/basekits.iml" />
-      <module fileurl="file://$PROJECT_DIR$/smaple/smaple.iml" filepath="$PROJECT_DIR$/smaple/smaple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/smaple.iml" filepath="$PROJECT_DIR$/sample/smaple.iml" />
     </modules>
   </component>
 </project>
