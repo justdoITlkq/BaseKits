@@ -36,9 +36,9 @@ dependencies {
 }
 
 //项目主页
-def siteUrl = 'https://github.com/justdoITlkq/Sample'
+def siteUrl = 'https://github.com/justdoITlkq/BaseKits'
 //项目的git地址
-def gitUrl = 'https://github.com/justdoITlkq/Sample.git'
+def gitUrl = 'https://github.com/justdoITlkq/BaseKits.git'
 //发布到JCenter上的项目名字
 def libName = "BaseKits"
 //发布到组织名称名字，必须填写
